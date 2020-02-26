@@ -11,7 +11,7 @@ public class Pixel extends Canvas {
     private static final Random random = new Random();
 
 
-    @Override
+    
     public void paint(Graphics g) {
         super.paint(g);
 
